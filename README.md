@@ -6,19 +6,15 @@ AUTOPLAN
 ADI SOYADI			: GÜRSU AŞIK
 PROJENİN ADI 			: AUTOPLAN
 PROJENİN KONUSU		: ELEKTRİK TESİSAT ÇİZİM PROGRAMI
-PROJENİN AMACI		: Bilgisayar ortamında mimari projeden otomatik   
-  olarak elektrik tesisat projesini çizdirmek.
-PROJENİN HEDEFLERİ		: Bilgisayar ortamında mimari projeden elektrik 
-   tesisat projesini çizdirip, zamandan tasarruf sağlamak.
+PROJENİN AMACI		: Bilgisayar ortamında mimari projeden otomatik olarak elektrik tesisat projesini çizdirmek.
+PROJENİN HEDEFLERİ		: Bilgisayar ortamında mimari projeden elektrik tesisat projesini çizdirip, zamandan tasarruf sağlamak.
 PROJENİN MALİYETİ		: Sıfır maliyet
 PROJENİN SÜRESİ 		: 4 Ay
-PROJENİN SONUÇLARI	: Elektrik tesisat projeleri üzerine çalışan insanların işlerini 
-kolaylaştırmak, çizimde insan hatalarından kaynaklanan    
-yanlışlıkların önüne geçmek.
+PROJENİN SONUÇLARI	: Elektrik tesisat projeleri üzerine çalışan insanların işlerini kolaylaştırmak, çizimde insan hatalarından kaynaklanan yanlışlıkların önüne geçmek.
 KAYNAKÇA			: Elektrik-Elektronik Tek. alanı aydınlatma projeleri modülü.
    Şimdi Microsoft Visual C++ Öğrenin (Chuck Sphar) kitabı.
-
-PROJENİN ÇALIŞMASI HAKKINDA GENEL BİLGİLER
+   
+   PROJENİN ÇALIŞMASI HAKKINDA GENEL BİLGİLER
 
 Bu projede kat planı çizilen binanın, elektrik tesisat planını otomatik olarak çizebilecek bir yazılım geliştirmeye çalıştım. Böyle bir program kullanıcılara rahatlık sağlar ve önemli oranda zaman kazandırabilir.
 
