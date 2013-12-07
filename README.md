@@ -4,6 +4,7 @@ gursuasik-AutoPlan
 AUTOPLAN
 
 ADI SOYADI			: GÜRSU AŞIK
+
 PROJENİN ADI 			: AUTOPLAN
 
 PROJENİN KONUSU		: ELEKTRİK TESİSAT ÇİZİM PROGRAMI
@@ -31,14 +32,6 @@ Bu programın çalışabilmesi kat planından çıkarabileceği ipuçlarıyla m�
 •	Bu kat planında odalara yerleştirilecek lambalar zaten odaların orta noktalarına yerleştirilecektir.
 •	Bu lambalar için kullanılacak anahtarların oda girişlerine yakın noktalara ve kapılar açıldığında kapıların arakasında kalmayacak şekilde (kapı açıklığından 40 cm mesafede) yerleşmesi gerektiğinden kat planı anahtar konumları bilgilerini de verir. 
 •	Prizler de anahtarlar için konabilecek yerler de dahil oda duvarlarının uygun değişik noktalarına hazırlanan program tarafından konabilir.
- 
-
-Resim 1. Örnek Kat Planı
-
-Bu kurallar ışığında bu kat planı üzerinde çizilebilecek aydınlatma tesisatı şu şekilde çizilir.
- 
-
-Resim 2. Kat Planı Üzerinde Çizilmiş Aydınlatma Projesi
 
 •	Kat planlarında banyo ve tuvalet gibi bölmeler de belirtildiğinden program tarafından elde edilen bu bilgiler sayesinde buralara yerleştirilecek lamba ve prizlerin farkı yine program tarafından çizilen aydınlatma projesinde belirtilebilir.
 •	Kat planlarında mutfak tezgâhı, banyo küveti, lavabo gibi gösterilen ayrıntılarla beraber programın nerelere priz koyması ya da kesinlikle koymaması gerektiği bilgisi program tarafından kat planından elde edilebilir. Böylece programın aydınlatma projesine katkısı daha da fazla olabilir.
@@ -74,10 +67,6 @@ Resim 4. Bir Odaya Açılan Birden Fazla Kapı
 
 •	Lamba konumlarını odaların dışbükey olduğunu kabul ederek hesaplattığımdan doğru hesaplanmış lamba konumları için odalar dışbükey olmalı. (L tipi odalar için lamba konumları yanlış bulunuyor.
 
- 
-
-Resim 5. Dış Bükey Olmayan Oda (Örnek : L Tipi)
-
 •	Aydınlatma hesabı yapılmıyor. Her odaya bir lamba yerleştiriliyor.
 
 KULLANICI ARAYÜZÜNÜN YETERSİZLİKLERİNDEN KAYNAKLANAN KISITLAYICILAR
@@ -91,36 +80,9 @@ GİZLENMEMİŞ YA DA ENGELLENMEMİŞ DOĞAL KISITLAYICILAR
 Programın kullanıcıya getirdiği kısıtlamalardan başka programın kontrolünü yapmadığı çok doğal bazı kısıtlayıcı durumların da göz önüne alınması gerekiyor. Çünkü program bu tür durumların olup olmadığını kontrol etmiyor ve anormal işlemlere izin veriyor. Sonrasında da uyguladığı algoritmalar işleyemiyor veya programın başarısız bir şekilde sonlanmasına ya da hiç sonlanamamasına sebep oluyor. Bu sebeple bu tür durumlara kullanıcının dikkat etmesi gerekiyor. Örnek olarak:
 •	Birbiriyle örtüşen kapıların, pencerelerin bulunmaması gerekir.
 
- 
-
-Resim 6. Birbiriyle Örtüşen Kapılar veya Pencereler
-
 •	Bir ucu boşta kalmış, diğer duvarları kesmeyen duvarlar olmamalı. Bu yüzden çizimlerin Snap To Grid (Giridlere kenetlenme) modunda yapılması faydalı olur.
 
-
-
-
-
-
-•	
-•	
-•	
-
-Resim 7a.	 Uçları Boş Kalmış Duvar-1		Resim 7b. Uçları Boş Kalmış Duvar-2
-
 •	Çakışık duvarlar olmamalı. (Kesişen duvarlar olabilir.)
-
-
-
-
-
-
-
-
-
-
-
-Resim 8. Çakışan Duvarlar
 
 Bu kısıtlayıcı şartları kabullenerek programı kısa zamanda tamamladım.
 
