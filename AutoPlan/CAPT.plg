@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CAPT - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\murat\LOCALS~1\Temp\RSP44.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CAPT.pdb" /debug /machine:I386 /out:"Debug/CAPT.exe" /pdbtype:sept 
+.\Debug\_2dSpace.obj
+.\Debug\_3dSpace.obj
+.\Debug\CAPT.obj
+.\Debug\ChildFrm.obj
+.\Debug\Floor.obj
+.\Debug\FloorBuildDoc.obj
+.\Debug\FloorBuilderFrame.obj
+.\Debug\FloorBuildView.obj
+.\Debug\LANPlanningFrame.obj
+.\Debug\LANPTDoc.obj
+.\Debug\LANPTView.obj
+.\Debug\MainFrm.obj
+.\Debug\MapDoc.obj
+.\Debug\MapFrame.obj
+.\Debug\MapView.obj
+.\Debug\StdAfx.obj
+.\Debug\Toolbars.obj
+.\Debug\CAPT.res
+]
+Creating command line "link.exe @C:\DOCUME~1\murat\LOCALS~1\Temp\RSP44.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+CAPT.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
