@@ -1,4 +1,4 @@
-gursuasik-AutoPlan
+#AutoPlan
 ==================
 
 AUTOPLAN
@@ -111,3 +111,7 @@ Anahtar ve  prizler her oda için bulunan buat ile birleştirilir.
 
 Hangi odaya dışardan kapı ile giriş varsa o odada anahtarda olduğu gibi kapı açıklığından 1.5 m. uzakta dağıtım kutusu yeri aranır.
 Düğüm noktaları duvarların köşeleri ve bağlantıları da duvarlar olacak şekilde temsil edilen bir grafik yapısı üzerinde uygulanan en kısa yol algoritmaları ile bütün buatlardan dağıtım noktası çizilecek bağlantıların köşe noktaları bulunmuş olur. Bu köşe noktaları da birleştirilerek aydınlatma projesi çizilmiş olur.
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/WEyX45LyH0E" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/UbL-ePjWcho" frameborder="0" allowfullscreen></iframe>
