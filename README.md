@@ -12,3 +12,9 @@ Anahtar ve prizler her oda için bulunan buat ile birleştirilir.<br /></div>
 <div>Hangi odaya dışardan kapı ile giriş varsa o odada anahtarda olduğu gibi kapı açıklığından 1.5 m. uzakta dağıtım kutusu yeri aranır.<br /></div>
 <div>
 Düğüm noktaları duvarların köşeleri ve bağlantıları da duvarlar olacak şekilde temsil edilen bir grafik yapısı üzerinde uygulanan en kısa yol algoritmaları ile bütün buatlardan dağıtım noktası çizilecek bağlantıların köşe noktaları bulunmuş olur. Bu köşe noktaları da birleştirilerek aydınlatma projesi çizilmiş olur.</div>
+
+
+
+
+
+Anahtar ve prizler duvarın üstü yerine duvara göre 50 cm daha oda içinde çizilir.<br />Anahtar ve prizler her oda için bulunan buat ile birleştirilir.<br /><br />Hangi odaya dışardan kapı ile giriş varsa o odada anahtarda olduğu gibi kapı açıklığından 1.5 m. uzakta dağıtım kutusu yeri aranır.<br /><br />Düğüm noktaları duvarların köşeleri ve bağlantıları da duvarlar olacak şekilde temsil edilen bir grafik yapısı üzerinde uygulanan en kısa yol algoritmaları ile bütün buatlardan dağıtım noktası çizilecek bağlantıların köşe noktaları bulunmuş olur. Bu köşe noktaları da birleştirilerek aydınlatma projesi çizilmiş olur.
